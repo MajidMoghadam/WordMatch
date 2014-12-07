@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MemoryMatch_Level01</key>
+	<string>-1</string>
+	<key>MemoryMatch_Level02</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level03</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level04</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level05</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level06</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level07</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level08</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level09</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level10</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level11</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level12</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level13</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level14</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level15</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level16</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level17</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level18</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level19</key>
+	<string>-2</string>
+	<key>MemoryMatch_Level20</key>
+	<string>-2</string>
+	<key>currentMMGameLevel</key>
+	<string>1</string>
+	<key>languageSelected</key>
+	<string>English</string>
+</dict>
+</plist>
