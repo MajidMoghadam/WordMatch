@@ -72,7 +72,7 @@
 -(void)dispatchFirstTouchAtPoint:(CGPoint)touchPoint forEvent:(UIEvent *)event;
 -(NSString *)getCurrentMMGameLevel;
 -(void)loadMMGameLevel:(NSString *)aLevel;
-- (void)onAnimationComplete:(NSString *)animationID finished:(NSNumber *)finished context:(void *)context;
+//- (void)onAnimationComplete:(NSString *)animationID finished:(NSNumber *)finished context:(void *)context;
 //-(void)updateTotalNumberOfStarsImages;
 - (IBAction)reLoadMMGameLevel:(id)sender;
 @end
