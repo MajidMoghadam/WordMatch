@@ -442,9 +442,9 @@
         
         currentLevelName = [currentLevelName stringByAppendingString:levelNumberString];
         
-        NSString *totalStarsEarnedInLevelString = [NSString stringWithFormat:@"%d", totalStarsEarnedInLevel]; 
-        
-        [self saveUserGameStateValue:totalStarsEarnedInLevelString forAKey:currentLevelName];
+//        NSString *totalStarsEarnedInLevelString = [NSString stringWithFormat:@"%d", totalStarsEarnedInLevel]; 
+//        
+//        [self saveUserGameStateValue:totalStarsEarnedInLevelString forAKey:currentLevelName];
         //[self saveUserGameStateValue:[self getNextMMGameLevel] forAKey:@"currentMMGameLevel"];
         
         //unlock next level
