@@ -541,9 +541,6 @@
 		1CF780F8165869B9003FC961 /* Canada.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CF780EE165869B9003FC961 /* Canada.mp3 */; };
 		1CF780F9165869B9003FC961 /* Brazil.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CF780EF165869B9003FC961 /* Brazil.mp3 */; };
 		1CF780FB16586AB1003FC961 /* United States.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 1CF780FA16586AB0003FC961 /* United States.mp3 */; };
-		7C1100D61A39428E0091E65F /* WM_app_icons_FREE_76X76.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7C1100D31A39428E0091E65F /* WM_app_icons_FREE_76X76.jpg */; };
-		7C1100D71A39428E0091E65F /* WM_app_icons_FREE_120X120.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7C1100D41A39428E0091E65F /* WM_app_icons_FREE_120X120.jpg */; };
-		7C1100D81A39428E0091E65F /* WM_app_icons_FREE_152X152.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7C1100D51A39428E0091E65F /* WM_app_icons_FREE_152X152.jpg */; };
 		7C82A6AC195911AB0038830C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1CF6D31D18C1795D00469D79 /* Images.xcassets */; };
 		7C82A6AD195911AD0038830C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1CF6D31D18C1795D00469D79 /* Images.xcassets */; };
 		7C83EFE3195904A1000B0EE2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C7D3DAB14CE5D8F002AA13E /* main.m */; };
@@ -1637,9 +1634,6 @@
 		1CF780EE165869B9003FC961 /* Canada.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Canada.mp3; sourceTree = "<group>"; };
 		1CF780EF165869B9003FC961 /* Brazil.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Brazil.mp3; sourceTree = "<group>"; };
 		1CF780FA16586AB0003FC961 /* United States.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "United States.mp3"; sourceTree = "<group>"; };
-		7C1100D31A39428E0091E65F /* WM_app_icons_FREE_76X76.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = WM_app_icons_FREE_76X76.jpg; sourceTree = "<group>"; };
-		7C1100D41A39428E0091E65F /* WM_app_icons_FREE_120X120.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = WM_app_icons_FREE_120X120.jpg; sourceTree = "<group>"; };
-		7C1100D51A39428E0091E65F /* WM_app_icons_FREE_152X152.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = WM_app_icons_FREE_152X152.jpg; sourceTree = "<group>"; };
 		7C83F201195904A1000B0EE2 /* WordMatchFree.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordMatchFree.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C83F202195904A1000B0EE2 /* WordMatchFree-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "WordMatchFree-Info.plist"; path = "/Users/majidmoghadam/Documents/iOS_Projects/WordMatch/WordMatchFree-Info.plist"; sourceTree = "<absolute>"; };
 		7C97F6CE1A33452E00C2EF1E /* Utility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Utility.h; sourceTree = "<group>"; };
@@ -2017,9 +2011,6 @@
 		1C7D3D9014CE5D8F002AA13E = {
 			isa = PBXGroup;
 			children = (
-				7C1100D31A39428E0091E65F /* WM_app_icons_FREE_76X76.jpg */,
-				7C1100D41A39428E0091E65F /* WM_app_icons_FREE_120X120.jpg */,
-				7C1100D51A39428E0091E65F /* WM_app_icons_FREE_152X152.jpg */,
 				1CF6D31B18C1792F00469D79 /* Icon-76.png */,
 				1CF6D31618C178B200469D79 /* Icon-76@2x.png */,
 				1CF6D31718C178B200469D79 /* Icon-60@2x.png */,
@@ -3477,7 +3468,6 @@
 				7C83F0B3195904A1000B0EE2 /* Generic_Sound_03.wav in Resources */,
 				7C83F0B4195904A1000B0EE2 /* Generic_Sound_04.wav in Resources */,
 				7C83F0B5195904A1000B0EE2 /* Generic_Sound_05.wav in Resources */,
-				7C1100D61A39428E0091E65F /* WM_app_icons_FREE_76X76.jpg in Resources */,
 				7C83F0B6195904A1000B0EE2 /* Generic_Sound_06.wav in Resources */,
 				7C83F0B7195904A1000B0EE2 /* congratulations.png in Resources */,
 				7C83F0B8195904A1000B0EE2 /* SpanishButton_down.png in Resources */,
@@ -3714,7 +3704,6 @@
 				7C83F19C195904A1000B0EE2 /* owl.mp3 in Resources */,
 				7C83F19D195904A1000B0EE2 /* polarbear.mp3 in Resources */,
 				7C83F19E195904A1000B0EE2 /* rhinoceros.mp3 in Resources */,
-				7C1100D71A39428E0091E65F /* WM_app_icons_FREE_120X120.jpg in Resources */,
 				7C83F19F195904A1000B0EE2 /* tiger.mp3 in Resources */,
 				7C83F1A0195904A1000B0EE2 /* winking.mp3 in Resources */,
 				7C83F1A1195904A1000B0EE2 /* angry.mp3 in Resources */,
@@ -3769,7 +3758,6 @@
 				7C83F1D2195904A1000B0EE2 /* Mmming.mp3 in Resources */,
 				7C83F1D3195904A1000B0EE2 /* Chewing_Crunchy_3.mp3 in Resources */,
 				7C83F1D4195904A1000B0EE2 /* Sports_level_icon_up.png in Resources */,
-				7C1100D81A39428E0091E65F /* WM_app_icons_FREE_152X152.jpg in Resources */,
 				7C83F1D5195904A1000B0EE2 /* Icon@2x.png in Resources */,
 				7C83F1D6195904A1000B0EE2 /* Vehicles_level_icon_down.png in Resources */,
 				7C83F1D7195904A1000B0EE2 /* Icon.png in Resources */,
